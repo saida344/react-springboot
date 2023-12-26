@@ -11,7 +11,7 @@ pipeline {
         CENTRAL_REPO = 'bookworld-maven-central'
         GROUP_REPO = 'bookworld-group'
         NEXUS_USERNAME = 'admin'
-        NEXUS_PASSWORD = 'nexusadmin'
+        NEXUS_PASSWORD = 'nexus'
         NEXUS_IP = '44.212.43.130'
         NEXUS_PORT = '8081'
         NEXUS_LOGIN = 'nexus' 
