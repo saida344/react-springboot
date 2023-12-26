@@ -6,7 +6,7 @@ pipeline {
     }
     
     environment {
-        SNAPSHOT_REPO = 'bookworld-snapshot'
+        SNAPSHOT_REPO = 'bookworl-snapshot'
         RELEASE_REPO = 'bookworld-release'
         CENTRAL_REPO = 'bookworld-maven-central'
         GROUP_REPO = 'bookworld-group'
