@@ -12,7 +12,7 @@ pipeline {
         GROUP_REPO = 'bookworld-group'
         NEXUS_USERNAME = 'admin'
         NEXUS_PASSWORD = 'nexusadmin'
-        NEXUS_IP = '172.31.83.230'
+        NEXUS_IP = '44.212.43.130'
         NEXUS_PORT = '8081'
         NEXUS_LOGIN = 'nexus' 
         ANSIBLE_LOGIN = 'ansible-login'
